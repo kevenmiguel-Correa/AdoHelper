@@ -1,3 +1,4 @@
 <Solution>
-  <Project Path="../../../../../../../../MyProjects/AdoHelper/AdoHelperLib/AdoHelperLib.csproj" />
+  <Project Path="AdoHelperLib/AdoHelperLib.csproj" />
+  <Project Path="AdoHelperQueryApp/AdoHelperQueryApp.csproj" Id="14b16b85-59cb-4f2c-be73-3e487aaa40cf" />
 </Solution>

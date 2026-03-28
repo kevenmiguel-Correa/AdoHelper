@@ -4,6 +4,7 @@ using System.Text;
 
 namespace AdoHelperLib.Mapping
 {
+
     public static class DataReaderExtensions
     {
         public static bool HasColumn(this System.Data.IDataRecord reader, string columnName)
